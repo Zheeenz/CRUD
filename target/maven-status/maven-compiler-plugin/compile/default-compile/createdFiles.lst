@@ -1,0 +1,15 @@
+duoc\cl\crud\CRUD.class
+duoc\cl\crud\CRUD$5.class
+duoc\cl\crud\CRUD$1.class
+duoc\cl\crud\CRUD$4.class
+duoc\cl\crud\Views\Crear.class
+duoc\cl\crud\Views\Eliminar.class
+duoc\cl\crud\Service\IMascota.class
+duoc\cl\crud\Views\Actualizar.class
+duoc\cl\crud\DTO\MascotaDTO.class
+duoc\cl\crud\CRUD$3.class
+duoc\cl\crud\Views\Crear$2.class
+duoc\cl\crud\Service\Impl\MascotaService.class
+duoc\cl\crud\Views\Listar.class
+duoc\cl\crud\CRUD$2.class
+duoc\cl\crud\Views\Crear$1.class
