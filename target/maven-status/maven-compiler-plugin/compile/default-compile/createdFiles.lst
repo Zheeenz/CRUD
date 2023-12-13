@@ -1,8 +1,11 @@
 duoc\cl\crud\CRUD.class
+duoc\cl\crud\Views\Eliminar$2.class
+duoc\cl\crud\Views\Listar$1.class
 duoc\cl\crud\CRUD$5.class
 duoc\cl\crud\CRUD$1.class
 duoc\cl\crud\CRUD$4.class
 duoc\cl\crud\Views\Crear.class
+duoc\cl\crud\Views\Eliminar$1.class
 duoc\cl\crud\Views\Eliminar.class
 duoc\cl\crud\Service\IMascota.class
 duoc\cl\crud\Views\Actualizar.class
